@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Uncle Tom\'s stable</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_of_favorites">List of Favorites</string>
+    <string name="help">HELP</string>
+    <string name="click_horse">Click on the horse in the list for details</string>
+    <string name="bottom_menu">Bottom menu</string>
+    <string name="menu_home">Home: First page program.</string>
+    <string name="menu_help">Help: How to use the program.</string>
+    <string name="description_program">Description program</string>
+    <string name="description_text">A catalog of the best horses in Uncle Tom\'s stable.</string>
+    <string name="about">About</string>
+    <string name="version_autor">Ver: 001b, GPL License, max-nl@mail.ru</string>
+    <string name="note_text">The app is not designed to work. This is a test on the material studied.</string>
+    <string name="developer_site">Developer site</string>
+    <string name="home_menu">Home</string>
+    <string name="help_menu">Help</string>
+    <string name="horse">horse</string>
+    <string name="breed">breed</string>
+    <string name="country">country</string>
+    <string name="type">type</string>
+    <string name="description">description</string>
+</resources>
